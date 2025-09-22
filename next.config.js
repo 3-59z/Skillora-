@@ -1,7 +1,7 @@
 // next.config.js
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // next export সক্রিয় করবে
+  output: 'export', // next export
 };
 
 module.exports = nextConfig;
