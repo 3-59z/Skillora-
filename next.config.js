@@ -1,7 +1,9 @@
+```js
 // next.config.js
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // next export
+  output: 'export',
 };
 
 module.exports = nextConfig;
+```
